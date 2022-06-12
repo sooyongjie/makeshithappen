@@ -49,7 +49,7 @@ body {
 
 .wrapper {
   padding: 40px 0 80px 0;
-  min-height: 90vh;
+  min-height: 95vh;
   display: flex;
   align-items: center;
   justify-content: space-between;

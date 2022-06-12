@@ -22,7 +22,7 @@
 body {
   height: 100%;
   min-height: 100vh;
-  background-image: url("../img/background.jpg");
+  background-image: url("../../img/background.jpg");
   background-position: center;
   background-size: cover;
   font-family: 'Poppins', sans-serif;
